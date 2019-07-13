@@ -13,4 +13,8 @@ public class  ClassName
 		
 	return ;
 	}
+	
+	public void test() {
+		
+	}
 }	
