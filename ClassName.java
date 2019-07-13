@@ -15,6 +15,6 @@ public class  ClassName
 	}
 	
 	public void test() {
-		
+	System.out.println("Hello");	
 	}
 }	
